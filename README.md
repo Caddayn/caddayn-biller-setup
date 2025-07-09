@@ -37,10 +37,3 @@ In no event shall the author be liable for any damages whatsoever arising out of
 
 This EULA is governed by the laws of the jurisdiction in which the software was developed.
 
----
-
-**Author:** Christo Pananjickal  
-**Created with:** Microsoft Word 2021  
-**Creation Date:** 2025-01-31
-
-*For more information, please contact the author.*
