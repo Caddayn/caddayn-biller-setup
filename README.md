@@ -1,3 +1,82 @@
+# Caddayn Biller - Privacy Policy
+
+
+**Effective Date:** October 6, 2025  
+**Last Updated:** October 6, 2025
+
+---
+
+## Company Information
+**Legal Name:** Caddayn  
+**Registered In:** India  
+**Contact Email:** [info@caddayn.com](mailto:info@caddayn.com)
+
+Caddayn (“we”, “our”, or “us”) operates the **Caddayn Biller** application available on **Windows** and **Android**.  
+This Privacy Policy explains how we collect, use, and protect your data.
+
+---
+
+## Information We Collect
+
+### 1. User Account Information
+- Name  
+- Email Address  
+- Phone Number  
+- Login Credentials (email & password)
+
+### 2. Business Information
+- Employee details (added by the user)  
+- Customer details (added by the user)
+
+---
+
+## Information We Do NOT Collect
+- Payment or financial data  
+- Location data  
+- Usage analytics or crash reports  
+
+---
+
+## How We Use Your Information
+- Account creation and login authentication  
+- Managing business operations within the ERP  
+- Providing app functionality and customer support  
+
+We **do not** sell, rent, or share your information with third parties.
+
+---
+
+## Third-Party Services
+Caddayn Biller does **not** use any third-party SDKs, analytics, tracking, or payment services.  
+All data remains within the Caddayn system.
+
+---
+
+## Data Security
+We implement reasonable security measures to protect your data.  
+Passwords are stored encrypted. Users should keep their login credentials private.
+
+---
+
+## Data Retention
+Data is retained as long as the account is active.  
+You may request deletion of your data at any time by contacting [info@caddayn.com](mailto:info@caddayn.com).
+
+---
+
+## User Rights
+- Access your data  
+- Update information  
+- Request deletion of account and data  
+
+---
+
+## Contact Us
+Questions or concerns? Reach out: [info@caddayn.com](mailto:info@caddayn.com)
+
+
+
+
 # Caddayn Biller End User License Agreement (EULA)
 
 ## Introduction
